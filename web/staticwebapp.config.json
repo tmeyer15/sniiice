@@ -1,5 +1,13 @@
 {
   "mimeTypes": {
     ".java": "text/plain; charset=utf-8"
-  }
+  },
+  "routes": [
+    {
+      "route": "/Sniiice.java",
+      "methods": [
+        "get"
+      ]
+    }
+  ]
 }
